@@ -1,11 +1,10 @@
 import React from 'react'
+import Project from './Project'
 
 const Portfolio = () =>{
     return (
         <div className="portfolio">
-            <p>Image screen shot</p>
-            <h3>Project Title</h3>
-            <p>Project description</p>
+            <Project />
 
         </div>
     )
