@@ -14,9 +14,12 @@ class App extends React.Component {
     <div className="App">
      <header className="App-header">
        <Navbar />
-        <img src={logo} className="App-logo" alt="logo" />
+       <div className="footer-container">
+       <img src={logo} className="App-logo" alt="logo" />
        
-        <Footer />
+       <Footer />
+       </div>
+        
       </header>
 
       
