@@ -10,17 +10,18 @@
   align-items: center;
   justify-content: space-between;
   font-size: calc(3px + 2vmin);
-  color: rgb(172, 18, 172);
-  background-image: url("./components/img/goku-blue.jpg");
+  color:rgb(146, 5, 5);
+  background-image: url("/img/goku-blue.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: fill;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 5s linear;
+  animation: App-logo-spin infinite 3s linear;
   height: 5vmin;
   pointer-events: none;
+  
   
 }
 
@@ -40,6 +41,7 @@
   color: #8561fb;
 }
 
+
 .navbar button {
   margin: 10px;
 }
@@ -50,11 +52,28 @@
   align-items: center;
   flex-direction: row;
   width: 100%;
+  background-color: aliceblue;
 }
 
 .about-me {
   
-  background-color: rgba(240, 248, 255, 0.411);
+  background-color: rgba(115, 199, 238, 0.555);
+}
+.project {
+  width: 30vmax;
+  height: 30vmax;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+
+.project img {
+  width: 20vmax;
+  height: 20vmax;
+}
+.project p {
+  text-align: justify;
 }
 
 @keyframes App-logo-spin {
@@ -65,3 +84,53 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  text-align: initial;
+}
+
+.education {
+  background-color: rgba(115, 199, 238, 0.555);
+}
+.why-coding {
+  background-color: rgba(115, 199, 238, 0.555);
+}
+.hobbies {
+  background-color: rgba(115, 199, 238, 0.555);
+}
+.art-gallery {
+  background-color: rgba(115, 199, 238, 0.555);
+}
+.cv {
+  background-color: rgba(115, 199, 238, 0.555);
+}
+.contact-me {
+  background-color: rgba(115, 199, 238, 0.555);
+}
+@media (min-height: 300px) {
+  .navbar  {
+    position: sticky;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.623);
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px){
+  .navbar button{
+    color: white;
+  }
+ 
+}
+.art-gallery img {
+  width: 20vmax;
+  height: 20vmax;
+}
+/* @media (min-width: 400px){
+  .App div {
+    width: 85%;
+    margin: 100px;
+  }
+} */
+
+
