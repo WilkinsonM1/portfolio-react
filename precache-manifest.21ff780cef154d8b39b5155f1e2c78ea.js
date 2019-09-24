@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f6c1547f6b5080724ef8c8141f9fb4d",
+    "revision": "b0fabf49001f1ab0aa67a7546afcb2f3",
     "url": "/portfolio-react/./index.html"
   },
   {
-    "revision": "b0c9420d5c872ea556ea",
-    "url": "/portfolio-react/./static/css/main.dc6430bf.chunk.css"
+    "revision": "c92dca6fb020a06564bc",
+    "url": "/portfolio-react/./static/css/main.8ced6e4e.chunk.css"
   },
   {
     "revision": "1a9a579a9b5c4395ba08",
     "url": "/portfolio-react/./static/js/2.98162777.chunk.js"
   },
   {
-    "revision": "b0c9420d5c872ea556ea",
+    "revision": "c92dca6fb020a06564bc",
     "url": "/portfolio-react/./static/js/main.1b7f3b05.chunk.js"
   },
   {
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0e2c253b6d7662b08b972f3a9b432783",
     "url": "/portfolio-react/./static/media/drumkit-cat.0e2c253b.png"
+  },
+  {
+    "revision": "f09c88fb228d3e4969ce968fe6c7addc",
+    "url": "/portfolio-react/./static/media/goku-blue.f09c88fb.jpg"
   },
   {
     "revision": "f0ebc33ab0aa128225f3a31f10ce73e0",
