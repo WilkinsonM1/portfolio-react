@@ -61,7 +61,7 @@
 }
 .project {
   width: 30vmax;
-  height: 38vmax;
+  height: 40vmax;
   display: flex;
   flex-direction: column;
   align-items: flex-start;

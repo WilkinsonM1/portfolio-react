@@ -9,6 +9,7 @@ const Project = (props) => {
             <h3>{props.title}</h3>
             <p>{props.description}
             </p>
+            <a href={props.link}>Click me to see website</a>
 
             </div>
             
