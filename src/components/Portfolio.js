@@ -1,11 +1,13 @@
 import React from 'react'
 import Project from './Project'
+import netCopy from '../img/netflix-copy.png'
+
 
 const Portfolio = (props) =>{
     return (
         <div className="portfolio">
             <Project 
-                source="/img/netflix-copy.png" 
+                source={netCopy}
                 alt="netflix-copy website"
                 title="Netflix Copy"
                 link="https://wilkinsonm1.github.io/netflixCopy/"
@@ -44,13 +46,15 @@ const Portfolio = (props) =>{
                 description="A website built that plays a game of 21 with randomly generated dice.
                 The challenge here was making each player play on his/her turn, by disabling all the rolling buttons apart from the player who's turn it is."
             />
-            {/*
+           
             <Project
-                source=""
-                alt=""
-                title=""
-                description=""
+                source="/img/london-bus-animation.png"
+                alt="London bus driving animation"
+                title="London Bus Animation"
+                link="https://wilkinsonm1.github.io/london-bus-animation/."
+                description="This was a small css challenge to practice CSS animations. I made the clouds move to the left while slowly fading, the bus slightly bounces and the wheels turn. The actual html divs and colouring were provided by our instructor."
             />
+             {/*
             <Project
                 source=""
                 alt=""

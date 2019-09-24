@@ -104,6 +104,14 @@ ul {
   text-align: initial;
 }
 
+ol li{
+  list-style-type: none;
+  width: 60%;
+  text-align: initial;
+  
+ 
+}
+
 .education {
   background-color: rgba(115, 199, 238, 0.555);
 }
