@@ -1,4 +1,13 @@
 import React from 'react'
+import oilPaint from '../img/oil-painting-mountain.jpg'
+import waterSakura from '../img/water-colour-sakura.jpg'
+import waterGoku from '../img/goku-blue-water.jpg'
+import gokuMastered from '../img/goku-mastered-ui.jpg'
+import waterSunset from '../img/water-colour-sunset.jpg'
+import originChar from '../img/original-character.jpg'
+import gogeta from '../img/gogeta.jpg'
+import broly from '../img/broly-older.jpg'
+import cv from '../files/Developer-CV.pdf'
 
 const MoreAboutMe = () => {
     return (
@@ -47,18 +56,18 @@ const MoreAboutMe = () => {
    
             <div className='art-gallery'>
             <h1>Art Gallery</h1>
-            <img src='/img/oil-painting-mountain.jpg' />
-            <img src='/img/water-colour-sunset.jpg' />
-            <img src='/img/water-colour-sakura.jpg' />
-            <img src='/img/goku-blue-water.jpg' />
-            <img src='/img/broly-older.jpg' />
-            <img src='/img/original-character.jpg' />
-            <img src='/img/goku-mastered-ui.jpg' />
-            <img src='/img/gogeta.jpg' />
+            <img src={oilPaint} />
+            <img src={waterSunset} />
+            <img src={waterSakura} />
+            <img src={waterGoku} />
+            <img src={broly}/>
+            <img src={originChar} />
+            <img src={gokuMastered} />
+            <img src={gogeta}/>
             </div>
             <div className='cv'>
             <h1>Curriculum Vitae</h1>
-            <a href='/files/Developer-CV.pdf' download>Click to download CV</a>
+            <a href={cv} download>Click to download CV</a>
             </div>
             <div className='contact-me'>
             <h1>Contact Me</h1>
