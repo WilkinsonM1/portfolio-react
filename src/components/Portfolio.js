@@ -12,7 +12,63 @@ const Portfolio = (props) =>{
                 This was made using HTML and multiple rows of images and organised using Flexbox. "
                 />
 
+            <Project
+                source="/img/cyber-pet-game.png"
+                alt="cyber pet game"
+                title="Cyber Pet Game"
+                description="An interactive game made mostly with Javascript with a bit of HTML and CSS to style the landing page and the game functions are triggered by a html button."
+            />
+            {/* <Project
+                source=""
+                alt=""
+                title=""
+                description=""
+            />
+            <Project
+                source=""
+                alt=""
+                title=""
+                description=""
+            />
+            <Project
+                source=""
+                alt=""
+                title=""
+                description=""
+            />
+            <Project
+                source=""
+                alt=""
+                title=""
+                description=""
+            />
+            <Project
+                source=""
+                alt=""
+                title=""
+                description=""
+            />
+            <Project
+                source=""
+                alt=""
+                title=""
+                description=""
+            />
+            <Project
+                source=""
+                alt=""
+                title=""
+                description=""
+            />
+            <Project
+                source=""
+                alt=""
+                title=""
+                description=""
+            /> */}
+
         </div>
+       
     )
 }
 
