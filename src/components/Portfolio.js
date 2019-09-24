@@ -1,6 +1,11 @@
 import React from 'react'
 import Project from './Project'
 import netCopy from '../img/netflix-copy.png'
+import cyberPet from '../img/cyber-pet-game.png'
+import keyCode from '../img/keycode-generator.png'
+import drumKit from '../img/drumkit-cat.png'
+import blackDice from '../img/black-dice-game.png'
+import busAnimation from '../img/london-bus-animation.png'
 
 
 const Portfolio = (props) =>{
@@ -16,14 +21,14 @@ const Portfolio = (props) =>{
                 />
 
             <Project
-                source="/img/cyber-pet-game.png"
+                source={cyberPet}
                 alt="cyber pet game"
                 title="Cyber Pet Game"
                 link="https://wilkinsonm1.github.io/cyber-pet-game/."
                 description="An interactive game made mostly with Javascript with a bit of HTML and CSS to style the landing page and the game functions are triggered by a html button."
             />
             <Project
-                source="/img/keycode-generator.png"
+                source={keyCode}
                 alt="keycode generator"
                 title="Keycode Generator"
                 link="https://wilkinsonm1.github.io/keyCodeGenerator/."
@@ -31,7 +36,7 @@ const Portfolio = (props) =>{
             />
             
             <Project
-                source="/img/drumkit-cat.png"
+                source={drumKit}
                 alt="Drumkit Cat"
                 title="Drumkit Cat"
                 link="https://wilkinsonm1.github.io/drumkitCat/"
@@ -39,7 +44,7 @@ const Portfolio = (props) =>{
             />
             
             <Project
-                source="/img/black-dice-game.png"
+                source={blackDice}
                 alt="Black dice game"
                 title="Black Dice Game"
                 link="https://wilkinsonm1.github.io/Black-Dice-game/"
@@ -48,7 +53,7 @@ const Portfolio = (props) =>{
             />
            
             <Project
-                source="/img/london-bus-animation.png"
+                source={busAnimation}
                 alt="London bus driving animation"
                 title="London Bus Animation"
                 link="https://wilkinsonm1.github.io/london-bus-animation/."
