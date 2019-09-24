@@ -1,17 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio-react/./static/css/main.dc6430bf.chunk.css",
-    "main.js": "/portfolio-react/./static/js/main.47df36b7.chunk.js",
-    "main.js.map": "/portfolio-react/./static/js/main.47df36b7.chunk.js.map",
+    "main.js": "/portfolio-react/./static/js/main.1b7f3b05.chunk.js",
+    "main.js.map": "/portfolio-react/./static/js/main.1b7f3b05.chunk.js.map",
     "runtime~main.js": "/portfolio-react/./static/js/runtime~main.1cd29dda.js",
     "runtime~main.js.map": "/portfolio-react/./static/js/runtime~main.1cd29dda.js.map",
-    "static/js/2.ca527e59.chunk.js": "/portfolio-react/./static/js/2.ca527e59.chunk.js",
-    "static/js/2.ca527e59.chunk.js.map": "/portfolio-react/./static/js/2.ca527e59.chunk.js.map",
+    "static/js/2.98162777.chunk.js": "/portfolio-react/./static/js/2.98162777.chunk.js",
+    "static/js/2.98162777.chunk.js.map": "/portfolio-react/./static/js/2.98162777.chunk.js.map",
     "index.html": "/portfolio-react/./index.html",
-    "precache-manifest.f63c7d41e8c90983c16a9703ab3b0e74.js": "/portfolio-react/./precache-manifest.f63c7d41e8c90983c16a9703ab3b0e74.js",
+    "precache-manifest.2a92b099ed8b369f2fba70448aed5312.js": "/portfolio-react/./precache-manifest.2a92b099ed8b369f2fba70448aed5312.js",
     "service-worker.js": "/portfolio-react/./service-worker.js",
     "static/css/main.dc6430bf.chunk.css.map": "/portfolio-react/./static/css/main.dc6430bf.chunk.css.map",
+    "static/media/black-dice-game.png": "/portfolio-react/./static/media/black-dice-game.96d69d4e.png",
+    "static/media/cyber-pet-game.png": "/portfolio-react/./static/media/cyber-pet-game.4458bf26.png",
+    "static/media/drumkit-cat.png": "/portfolio-react/./static/media/drumkit-cat.0e2c253b.png",
+    "static/media/keycode-generator.png": "/portfolio-react/./static/media/keycode-generator.f0ebc33a.png",
     "static/media/logo.svg": "/portfolio-react/./static/media/logo.5d5d9eef.svg",
+    "static/media/london-bus-animation.png": "/portfolio-react/./static/media/london-bus-animation.b42824de.png",
     "static/media/netflix-copy.png": "/portfolio-react/./static/media/netflix-copy.80fb2b18.png"
   }
 }
