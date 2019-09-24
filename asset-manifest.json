@@ -1,23 +1,32 @@
 {
   "files": {
     "main.css": "/portfolio-react/./static/css/main.8ced6e4e.chunk.css",
-    "main.js": "/portfolio-react/./static/js/main.1b7f3b05.chunk.js",
-    "main.js.map": "/portfolio-react/./static/js/main.1b7f3b05.chunk.js.map",
+    "main.js": "/portfolio-react/./static/js/main.e7c56967.chunk.js",
+    "main.js.map": "/portfolio-react/./static/js/main.e7c56967.chunk.js.map",
     "runtime~main.js": "/portfolio-react/./static/js/runtime~main.1cd29dda.js",
     "runtime~main.js.map": "/portfolio-react/./static/js/runtime~main.1cd29dda.js.map",
-    "static/js/2.98162777.chunk.js": "/portfolio-react/./static/js/2.98162777.chunk.js",
-    "static/js/2.98162777.chunk.js.map": "/portfolio-react/./static/js/2.98162777.chunk.js.map",
+    "static/js/2.a89fefc0.chunk.js": "/portfolio-react/./static/js/2.a89fefc0.chunk.js",
+    "static/js/2.a89fefc0.chunk.js.map": "/portfolio-react/./static/js/2.a89fefc0.chunk.js.map",
     "index.html": "/portfolio-react/./index.html",
-    "precache-manifest.21ff780cef154d8b39b5155f1e2c78ea.js": "/portfolio-react/./precache-manifest.21ff780cef154d8b39b5155f1e2c78ea.js",
+    "precache-manifest.10a7a5b1003c07124c6811f2ecd9e416.js": "/portfolio-react/./precache-manifest.10a7a5b1003c07124c6811f2ecd9e416.js",
     "service-worker.js": "/portfolio-react/./service-worker.js",
     "static/css/main.8ced6e4e.chunk.css.map": "/portfolio-react/./static/css/main.8ced6e4e.chunk.css.map",
+    "static/media/Developer-CV.pdf": "/portfolio-react/./static/media/Developer-CV.a61ea528.pdf",
     "static/media/black-dice-game.png": "/portfolio-react/./static/media/black-dice-game.96d69d4e.png",
+    "static/media/broly-older.jpg": "/portfolio-react/./static/media/broly-older.d4e66a62.jpg",
     "static/media/cyber-pet-game.png": "/portfolio-react/./static/media/cyber-pet-game.4458bf26.png",
     "static/media/drumkit-cat.png": "/portfolio-react/./static/media/drumkit-cat.0e2c253b.png",
+    "static/media/gogeta.jpg": "/portfolio-react/./static/media/gogeta.3d83ade0.jpg",
+    "static/media/goku-blue-water.jpg": "/portfolio-react/./static/media/goku-blue-water.f9df7ad7.jpg",
     "static/media/App.css": "/portfolio-react/./static/media/goku-blue.f09c88fb.jpg",
+    "static/media/goku-mastered-ui.jpg": "/portfolio-react/./static/media/goku-mastered-ui.7b132ef7.jpg",
     "static/media/keycode-generator.png": "/portfolio-react/./static/media/keycode-generator.f0ebc33a.png",
     "static/media/logo.svg": "/portfolio-react/./static/media/logo.5d5d9eef.svg",
     "static/media/london-bus-animation.png": "/portfolio-react/./static/media/london-bus-animation.b42824de.png",
-    "static/media/netflix-copy.png": "/portfolio-react/./static/media/netflix-copy.80fb2b18.png"
+    "static/media/netflix-copy.png": "/portfolio-react/./static/media/netflix-copy.80fb2b18.png",
+    "static/media/oil-painting-mountain.jpg": "/portfolio-react/./static/media/oil-painting-mountain.74a473bb.jpg",
+    "static/media/original-character.jpg": "/portfolio-react/./static/media/original-character.1f89a007.jpg",
+    "static/media/water-colour-sakura.jpg": "/portfolio-react/./static/media/water-colour-sakura.9f9d024c.jpg",
+    "static/media/water-colour-sunset.jpg": "/portfolio-react/./static/media/water-colour-sunset.9ec1e5e8.jpg"
   }
 }
