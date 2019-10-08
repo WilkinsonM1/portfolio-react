@@ -1,9 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
+import ReactCardFlip from 'react-card-flip'
 
 import Navbar from './components/Navbar'
 // import ProfilePic from './components/ProfilePic'
 import AboutMe from './components/AboutMe'
+import ProfilePic from './components/ProfilePic'
 import MoreAboutMe from './components/MoreAboutMe'
 import Portfolio from './components/Portfolio'
 import Footer from './components/Footer'
@@ -16,7 +18,9 @@ class App extends React.Component {
     super()
     this.state = {
       page: "home",
+      isFlipped: false,
     }
+    this.handleFlip = this.handleFlip.bind(this)
   }
   handleHomeClick = ()=>{
     this.setState(prevState => {
@@ -40,6 +44,11 @@ class App extends React.Component {
       }
     })
   }
+
+  handleFlip = (e)=>{
+    e.preventDefault()
+    this.setState( prevState => ({ isFlipped: !this.state.isFlipped }) )
+  }
  
 
   render(){
@@ -49,7 +58,20 @@ class App extends React.Component {
     }
     else if(this.state.page === "more about me") {
       show = <MoreAboutMe />
-    } else {show = <AboutMe />}
+    } else {
+      // <AboutMe />
+      show = <ReactCardFlip isFlipped={this.state.isFlipped} flipDirection="horizontal">
+              <ProfilePic key="front" handleFlip={this.handleFlip}>
+                
+
+              </ProfilePic>
+              <AboutMe key="back" handleFlip={this.handleFlip}>
+              
+
+              </AboutMe>
+
+            </ReactCardFlip>
+    }
   return (
     <div className="App">
       <Navbar 

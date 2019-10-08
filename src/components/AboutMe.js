@@ -1,6 +1,6 @@
 import React from 'react'
 
-const AboutMe = () => {
+const AboutMe = (props) => {
     return (
         <div className="about-me">
             <h2>About Me</h2>
@@ -14,7 +14,7 @@ const AboutMe = () => {
             I started again following tutorials on how to make blog websites using HTML and CSS.
             </p>
             <p>Fortunately 2 years later I came across Code Nation on instagram and realised I should take the plunge and move forward to make my dream of becoming a web developer a reality and haven't looked back since!</p>
-
+            <button onClick={props.handleFlip}>Click to flip</button>
         </div>
     )
 }

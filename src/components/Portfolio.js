@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactCardFlip from 'react-card-flip'
 import Project from './Project'
 import netCopy from '../img/netflix-copy.png'
 import cyberPet from '../img/cyber-pet-game.png'

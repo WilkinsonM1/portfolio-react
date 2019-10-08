@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactCardFlip from 'react-card-flip'
 import oilPaint from '../img/oil-painting-mountain.jpg'
 import waterSakura from '../img/water-colour-sakura.jpg'
 import waterGoku from '../img/goku-blue-water.jpg'
@@ -7,7 +8,7 @@ import waterSunset from '../img/water-colour-sunset.jpg'
 import originChar from '../img/original-character.jpg'
 import gogeta from '../img/gogeta.jpg'
 import broly from '../img/broly-older.jpg'
-import cv from '../files/Developer-CV.pdf'
+import cv from '../files/Developer-CV.pdf' 
 
 const MoreAboutMe = () => {
     return (
