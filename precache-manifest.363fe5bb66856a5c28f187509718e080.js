@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "903e6527143cdc348e7ddd2be837d171",
+    "revision": "40848a97c0cbfd98714280dd4dfff8e0",
     "url": "/portfolio-react/./index.html"
   },
   {
-    "revision": "bacd29775456b8718c43",
-    "url": "/portfolio-react/./static/css/main.8ced6e4e.chunk.css"
+    "revision": "cca8dfc5b9acf2d8d457",
+    "url": "/portfolio-react/./static/css/main.a464fb5f.chunk.css"
   },
   {
-    "revision": "b2195ee6c914f209260c",
-    "url": "/portfolio-react/./static/js/2.a89fefc0.chunk.js"
+    "revision": "9e79e87ae8e76866f0a1",
+    "url": "/portfolio-react/./static/js/2.26f8680d.chunk.js"
   },
   {
-    "revision": "bacd29775456b8718c43",
-    "url": "/portfolio-react/./static/js/main.e7c56967.chunk.js"
+    "revision": "cca8dfc5b9acf2d8d457",
+    "url": "/portfolio-react/./static/js/main.e7e7850e.chunk.js"
   },
   {
     "revision": "459f8c042e1b80954a51",
@@ -32,12 +32,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-react/./static/media/broly-older.d4e66a62.jpg"
   },
   {
+    "revision": "b104036a8780540d9fd13d89a2358e78",
+    "url": "/portfolio-react/./static/media/css3.b104036a.jfif"
+  },
+  {
     "revision": "4458bf26a3c66683408626b791a2c99d",
     "url": "/portfolio-react/./static/media/cyber-pet-game.4458bf26.png"
   },
   {
     "revision": "0e2c253b6d7662b08b972f3a9b432783",
     "url": "/portfolio-react/./static/media/drumkit-cat.0e2c253b.png"
+  },
+  {
+    "revision": "2660dd3f8039ca2be55a628588579c84",
+    "url": "/portfolio-react/./static/media/email.2660dd3f.jfif"
+  },
+  {
+    "revision": "ef7de674bd9b5cd2ceac54202119ac97",
+    "url": "/portfolio-react/./static/media/express-and-node.ef7de674.jfif"
+  },
+  {
+    "revision": "eab398d2c903921a6ab9bde17f9a88dd",
+    "url": "/portfolio-react/./static/media/git.eab398d2.jfif"
+  },
+  {
+    "revision": "7c386b517a16e676d94a42637738e70d",
+    "url": "/portfolio-react/./static/media/github.7c386b51.jfif"
   },
   {
     "revision": "3d83ade0a838699023d02d84ec2708d7",
@@ -48,24 +68,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-react/./static/media/goku-blue-water.f9df7ad7.jpg"
   },
   {
-    "revision": "f09c88fb228d3e4969ce968fe6c7addc",
-    "url": "/portfolio-react/./static/media/goku-blue.f09c88fb.jpg"
-  },
-  {
     "revision": "7b132ef7becb3f0e1c764911ee05bc7f",
     "url": "/portfolio-react/./static/media/goku-mastered-ui.7b132ef7.jpg"
+  },
+  {
+    "revision": "85f3a699cbaa92924aa32d294473dc62",
+    "url": "/portfolio-react/./static/media/html5.85f3a699.jfif"
+  },
+  {
+    "revision": "e1b25369cae05183714fbc09743d8b0c",
+    "url": "/portfolio-react/./static/media/javascript.e1b25369.jfif"
   },
   {
     "revision": "f0ebc33ab0aa128225f3a31f10ce73e0",
     "url": "/portfolio-react/./static/media/keycode-generator.f0ebc33a.png"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/portfolio-react/./static/media/logo.5d5d9eef.svg"
+    "revision": "2533890e17d510287b61b6356ddab1a7",
+    "url": "/portfolio-react/./static/media/linkedin.2533890e.jfif"
+  },
+  {
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/portfolio-react/./static/media/logo.ee7cd8ed.svg"
   },
   {
     "revision": "b42824debd128038325a23fe907f3b5b",
     "url": "/portfolio-react/./static/media/london-bus-animation.b42824de.png"
+  },
+  {
+    "revision": "9bc5c471c401a8b384055ca2f74e4450",
+    "url": "/portfolio-react/./static/media/mysql.9bc5c471.jfif"
   },
   {
     "revision": "80fb2b181eab4688268ef62f77aecd25",
@@ -78,6 +110,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1f89a007da83d5a30b69854e815ed195",
     "url": "/portfolio-react/./static/media/original-character.1f89a007.jpg"
+  },
+  {
+    "revision": "63a4e04d7d62d2a59006fd0774b5fc80",
+    "url": "/portfolio-react/./static/media/profile-pic.63a4e04d.jpg"
+  },
+  {
+    "revision": "d0fab8da7bbea5a6de95d72129b4a8b0",
+    "url": "/portfolio-react/./static/media/react.d0fab8da.jfif"
   },
   {
     "revision": "9f9d024cc272045a74e688b9ce1bd394",
