@@ -1,12 +1,12 @@
 import React from 'react'
 import ReactCardFlip from 'react-card-flip'
 import Project from './Project'
-import netCopy from '../img/netflix-copy.png'
-import cyberPet from '../img/cyber-pet-game.png'
-import keyCode from '../img/keycode-generator.png'
-import drumKit from '../img/drumkit-cat.png'
-import blackDice from '../img/black-dice-game.png'
-import busAnimation from '../img/london-bus-animation.png'
+import netCopy from '../img/project-screenshots/netflix-copy.png'
+import cyberPet from '../img/project-screenshots/cyber-pet-game.png'
+import keyCode from '../img/project-screenshots/keycode-generator.png'
+import drumKit from '../img/project-screenshots/drumkit-cat.png'
+import blackDice from '../img/project-screenshots/black-dice-game.png'
+import busAnimation from '../img/project-screenshots/london-bus-animation.png'
 
 
 const Portfolio = (props) =>{

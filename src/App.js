@@ -3,13 +3,18 @@ import logo from './logo.svg';
 import ReactCardFlip from 'react-card-flip'
 import { BrowserRouter, Route, Link } from 'react-router-dom'
 
-import Navbar from './components/Navbar'
+// import Summary from './components/Summary'
+
+
+// import Navbar from './components/Navbar'
+// // import ProfilePic from './components/ProfilePic'
+// import AboutMe from './components/AboutMe'
 // import ProfilePic from './components/ProfilePic'
-import AboutMe from './components/AboutMe'
-import ProfilePic from './components/ProfilePic'
-// import MoreAboutMe from './components/MoreAboutMe'
-// import Portfolio from './components/Portfolio'
-import Footer from './components/Footer'
+import Main from './components/Main'
+import MoreAboutMe from './components/MoreAboutMe'
+import Portfolio from './components/Portfolio'
+import ContactMe from './components/ContactMe'
+// import Footer from './components/Footer'
 
 import './App.css';
 
@@ -57,40 +62,20 @@ class App extends React.Component {
     return (
     <BrowserRouter>
       <div className='App'>
-          {/* <Route exact path="/" component={AboutMe} />
+           <Route exact path="/" component={Main} /> 
             <Route path="/portfolio" component={Portfolio} />
-              <Route path="/more-about-me" component={MoreAboutMe} /> */}
-
-        {/* <div className='navigation'>
+              <Route path="/more-about-me" component={MoreAboutMe} /> 
+                <Route path="/contact-me" component={ContactMe} /> 
+       
+        <div className='navigation'>
             <Link to="/" className="item">Home</Link>
               <Link to="/portfolio" className="item">Portfolio</Link>
                 <Link to="/more-about-me" className="item">More About Me</Link>
-
-        </div> */}
-
-        <div className='summary'>
+                  <Link to="/contact-me" className="item">Contact Me</Link>
 
         </div>
 
-        <div className='common-services'>
-
-        </div>
-
-        <div className='testimonials'>
-
-        </div>
-
-        <div className='selected-work'>
-
-        </div>
-
-        <div className='my-values'>
-
-        </div>
-
-        <div className='footer'>
-
-        </div>
+        
 
         
 

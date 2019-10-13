@@ -1,13 +1,13 @@
 import React from 'react'
 import ReactCardFlip from 'react-card-flip'
-import oilPaint from '../img/oil-painting-mountain.jpg'
-import waterSakura from '../img/water-colour-sakura.jpg'
-import waterGoku from '../img/goku-blue-water.jpg'
-import gokuMastered from '../img/goku-mastered-ui.jpg'
-import waterSunset from '../img/water-colour-sunset.jpg'
-import originChar from '../img/original-character.jpg'
-import gogeta from '../img/gogeta.jpg'
-import broly from '../img/broly-older.jpg'
+import oilPaint from '../img/art-work/oil-painting-mountain.jpg'
+import waterSakura from '../img/art-work/water-colour-sakura.jpg'
+import waterGoku from '../img/art-work/goku-blue-water.jpg'
+import gokuMastered from '../img/art-work/goku-mastered-ui.jpg'
+import waterSunset from '../img/art-work/water-colour-sunset.jpg'
+import originChar from '../img/art-work/original-character.jpg'
+import gogeta from '../img/art-work/gogeta.jpg'
+import broly from '../img/art-work/broly-older.jpg'
 import cv from '../files/Developer-CV.pdf' 
 
 const MoreAboutMe = () => {
@@ -70,16 +70,7 @@ const MoreAboutMe = () => {
             <h1>Curriculum Vitae</h1>
             <a href={cv} download>Click to download CV</a>
             </div>
-            <div className='contact-me'>
-            <h1>Contact Me</h1>
-            <h3>My contact information</h3>
-            <ol>
-                <li>Email: wilkinsonm302@gmail.com </li>
-                <li><a href='https://www.linkedin.com/in/mohammed-wilkinson-0a44b1b9/'>Click me</a>  for my LinkedIn </li>
-                <li><a href='https://github.com/WilkinsonM1'>Click me</a>  for my Github</li>
-                <li>Mobile: 07942250766</li>
-            </ol>
-            </div>
+            
 
         </div>
     )
