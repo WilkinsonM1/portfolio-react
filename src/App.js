@@ -62,18 +62,22 @@ class App extends React.Component {
     return (
     <BrowserRouter>
       <div className='App'>
+
+      
+        <nav className='navigation'>
+            <Link to="/" className="item">Home</Link>
+              <Link to="/portfolio" className="item">Portfolio</Link>
+                <Link to="/more-about-me" className="item">More About Me</Link>
+                  <Link to="/contact-me" className="item">Contact Me</Link>
+        </nav>
+
+        
            <Route exact path="/" component={Main} /> 
             <Route path="/portfolio" component={Portfolio} />
               <Route path="/more-about-me" component={MoreAboutMe} /> 
                 <Route path="/contact-me" component={ContactMe} /> 
        
-        <div className='navigation'>
-            <Link to="/" className="item">Home</Link>
-              <Link to="/portfolio" className="item">Portfolio</Link>
-                <Link to="/more-about-me" className="item">More About Me</Link>
-                  <Link to="/contact-me" className="item">Contact Me</Link>
-
-        </div>
+        
 
         
 
