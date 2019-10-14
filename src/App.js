@@ -65,17 +65,17 @@ class App extends React.Component {
 
       
         <nav className='navigation'>
-            <Link to="/portfolio-react/" className="item">Home</Link>
-              <Link to="/portfolio-react/portfolio" className="item">Portfolio</Link>
-                <Link to="/portfolio-react/more-about-me" className="item">More About Me</Link>
-                  <Link to="/portfolio-react/contact-me" className="item">Contact Me</Link>
+            <Link to="/" className="item">Home</Link>
+              <Link to="/portfolio" className="item">Portfolio</Link>
+                <Link to="/more-about-me" className="item">More About Me</Link>
+                  <Link to="/contact-me" className="item">Contact Me</Link>
         </nav>
 
         
-           <Route exact path="/portfolio-react/" component={Main} /> 
-            <Route path="/portfolio-react/portfolio" component={Portfolio} />
-              <Route path="/portfolio-react/more-about-me" component={MoreAboutMe} /> 
-                <Route path="/portfolio-react/contact-me" component={ContactMe} /> 
+           <Route exact path="/" component={Main} /> 
+            <Route path="/portfolio" component={Portfolio} />
+              <Route path="/more-about-me" component={MoreAboutMe} /> 
+                <Route path="/contact-me" component={ContactMe} /> 
        
         
 
