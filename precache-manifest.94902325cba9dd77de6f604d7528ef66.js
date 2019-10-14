@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40848a97c0cbfd98714280dd4dfff8e0",
+    "revision": "303c8376bd7c8f75c2246964fe86e855",
     "url": "/portfolio-react/./index.html"
   },
   {
-    "revision": "cca8dfc5b9acf2d8d457",
-    "url": "/portfolio-react/./static/css/main.a464fb5f.chunk.css"
+    "revision": "c3b095fee523c9bcfaff",
+    "url": "/portfolio-react/./static/css/main.abc1b6bd.chunk.css"
   },
   {
-    "revision": "9e79e87ae8e76866f0a1",
-    "url": "/portfolio-react/./static/js/2.26f8680d.chunk.js"
+    "revision": "4949dba7974c36e5f62e",
+    "url": "/portfolio-react/./static/js/2.428a7131.chunk.js"
   },
   {
-    "revision": "cca8dfc5b9acf2d8d457",
-    "url": "/portfolio-react/./static/js/main.e7e7850e.chunk.js"
+    "revision": "c3b095fee523c9bcfaff",
+    "url": "/portfolio-react/./static/js/main.1340a530.chunk.js"
   },
   {
     "revision": "459f8c042e1b80954a51",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-react/./static/media/linkedin.2533890e.jfif"
   },
   {
-    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
-    "url": "/portfolio-react/./static/media/logo.ee7cd8ed.svg"
+    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
+    "url": "/portfolio-react/./static/media/logo.5d5d9eef.svg"
   },
   {
     "revision": "b42824debd128038325a23fe907f3b5b",
